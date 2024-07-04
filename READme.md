@@ -1,5 +1,3 @@
-# Verification and Validation of Web Application Assignment
-
 This repository has the Assignment 2 for the Verification and Validation of Software (VVS) course, academic year 2023/2024. The project received a perfect score of 20/20 and focuses on comprehensive testing techniques for a web application following a layered architecture.
 
 ## Goals
