@@ -1,4 +1,5 @@
-This repository has the Assignment 2 for the Verification and Validation of Software (VVS) course, academic year 2023/2024. The project focuses on comprehensive testing techniques for a web application following a layered architecture.
+# Assignment 2 for VVS Course 2023/2024
+The project focuses on comprehensive testing techniques for a web application following a layered architecture.
 
 ## Goals
 The main goals of this assignment are:
