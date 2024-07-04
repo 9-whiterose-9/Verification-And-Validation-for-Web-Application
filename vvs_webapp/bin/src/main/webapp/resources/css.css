@@ -1,0 +1,49 @@
+#body{
+    height: 100%;
+}
+#titulo{
+    height: 220px;
+    font-size: 75px;
+    font-family: "Allerta Stencil", Sans-serif;
+    color: white;
+}
+
+#botao{
+    height: 60px;
+    width: 350px;
+    font-size: 30px;
+    font-family: "Allerta Stencil", Sans-serif;    
+}
+
+#botao1{
+    height: 43px;
+    width: 150px;
+    font-size: 18px;
+    font-family: "Allerta Stencil", Sans-serif;    
+}
+
+form{
+    text-align: center;
+    font-size: 17px;
+}
+
+tr{
+    color: white;
+    
+}
+
+#botao_home{
+    height: 43px;
+    width: 150px;
+    font-size: 20px;
+    font-family: "Allerta Stencil", Sans-serif;    
+    left: 50px;
+    bottom: 40px;
+    position: fixed;
+}
+
+#botao2{
+    height: 43px;
+    width: 400px;
+    font-size: 16px;
+}
