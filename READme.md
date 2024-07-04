@@ -1,4 +1,5 @@
 # Assignment 2 for VVS Course 2023/2024
+### Grade: 20/20
 The project focuses on comprehensive testing techniques for a web application following a layered architecture.
 
 ## Goals
